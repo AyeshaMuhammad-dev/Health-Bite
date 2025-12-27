@@ -1,0 +1,16 @@
+✅ 5 Commits Created Successfully!
+
+Commit History (with backdated dates):
+
+1. 2025-11-15 | Initial project setup: Django and FastAPI structure
+2. 2025-11-30 | Django core implementation: models, views, serializers, JWT auth
+3. 2025-12-10 | FastAPI microservice: AI routes, OpenAI integration, nutrition and maps services
+4. 2025-12-20 | Docker setup and database configuration: MySQL schema and containerization
+5. 2025-12-27 | Documentation, tests, and Windows setup: Complete project with guides and test suite
+
+Repository: https://github.com/AyeshaMuhammad-dev/Health-Bite
+
+To push to GitHub:
+1. Make sure the repository exists on GitHub
+2. Authenticate if needed (Personal Access Token or SSH)
+3. Run: git push -u origin main
