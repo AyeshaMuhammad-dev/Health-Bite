@@ -296,7 +296,7 @@ See `database/schema.sql` for the complete database schema reference.
 
 ## License
 
-[Your License Here]
+MIT
 
 ## Support
 
